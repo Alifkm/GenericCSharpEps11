@@ -1,0 +1,15 @@
+C:\Users\alifk\OneDrive\Documents\udemy\C# Mastery\Section 21\GenericCSharpEps11\GenericCSharpEps11\bin\Debug\net6.0\GenericCSharpEps11.exe
+C:\Users\alifk\OneDrive\Documents\udemy\C# Mastery\Section 21\GenericCSharpEps11\GenericCSharpEps11\bin\Debug\net6.0\GenericCSharpEps11.deps.json
+C:\Users\alifk\OneDrive\Documents\udemy\C# Mastery\Section 21\GenericCSharpEps11\GenericCSharpEps11\bin\Debug\net6.0\GenericCSharpEps11.runtimeconfig.json
+C:\Users\alifk\OneDrive\Documents\udemy\C# Mastery\Section 21\GenericCSharpEps11\GenericCSharpEps11\bin\Debug\net6.0\GenericCSharpEps11.dll
+C:\Users\alifk\OneDrive\Documents\udemy\C# Mastery\Section 21\GenericCSharpEps11\GenericCSharpEps11\bin\Debug\net6.0\GenericCSharpEps11.pdb
+C:\Users\alifk\OneDrive\Documents\udemy\C# Mastery\Section 21\GenericCSharpEps11\GenericCSharpEps11\obj\Debug\net6.0\GenericCSharpEps11.csproj.AssemblyReference.cache
+C:\Users\alifk\OneDrive\Documents\udemy\C# Mastery\Section 21\GenericCSharpEps11\GenericCSharpEps11\obj\Debug\net6.0\GenericCSharpEps11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alifk\OneDrive\Documents\udemy\C# Mastery\Section 21\GenericCSharpEps11\GenericCSharpEps11\obj\Debug\net6.0\GenericCSharpEps11.AssemblyInfoInputs.cache
+C:\Users\alifk\OneDrive\Documents\udemy\C# Mastery\Section 21\GenericCSharpEps11\GenericCSharpEps11\obj\Debug\net6.0\GenericCSharpEps11.AssemblyInfo.cs
+C:\Users\alifk\OneDrive\Documents\udemy\C# Mastery\Section 21\GenericCSharpEps11\GenericCSharpEps11\obj\Debug\net6.0\GenericCSharpEps11.csproj.CoreCompileInputs.cache
+C:\Users\alifk\OneDrive\Documents\udemy\C# Mastery\Section 21\GenericCSharpEps11\GenericCSharpEps11\obj\Debug\net6.0\GenericCSharpEps11.dll
+C:\Users\alifk\OneDrive\Documents\udemy\C# Mastery\Section 21\GenericCSharpEps11\GenericCSharpEps11\obj\Debug\net6.0\refint\GenericCSharpEps11.dll
+C:\Users\alifk\OneDrive\Documents\udemy\C# Mastery\Section 21\GenericCSharpEps11\GenericCSharpEps11\obj\Debug\net6.0\GenericCSharpEps11.pdb
+C:\Users\alifk\OneDrive\Documents\udemy\C# Mastery\Section 21\GenericCSharpEps11\GenericCSharpEps11\obj\Debug\net6.0\GenericCSharpEps11.genruntimeconfig.cache
+C:\Users\alifk\OneDrive\Documents\udemy\C# Mastery\Section 21\GenericCSharpEps11\GenericCSharpEps11\obj\Debug\net6.0\ref\GenericCSharpEps11.dll
